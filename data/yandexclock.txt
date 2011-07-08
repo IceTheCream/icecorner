@@ -1,0 +1,8 @@
+<object type="application/x-shockwave-flash" width="220" height="110" data="http://img.yandex.net/i/time/clock.swf?3">
+    <param name="movie" value="http://img.yandex.net/i/time/clock.swf?3"/>
+    <param name="quality" value="high"/>
+    <param name="bgcolor" value="#FFFFFF"/>
+    <param name="wmode" value="opaque"/>
+    <param name="FlashVars" value="id=12&type=informer"/>
+</object>
+

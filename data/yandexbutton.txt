@@ -1,0 +1,30 @@
+<table cellpadding="0" cellspacing="0" border="0" style="font: 0.8em Arial, sans-serif" align="center">
+<tr>
+<td width="116" height="77" style="border: 0; 
+  background:url(http://img.yandex.net/i/money/top-5rub-orange.gif) repeat-y; text-align:center; padding: 0;" align="center" valign="bottom">
+<form style="margin: 0; padding: 0 0 2px;" 
+  action="https://money.yandex.ru/donate.xml" method="post">
+  <input type="hidden" name="to" value="41001510609674"/>
+  <input type="hidden" name="s5" value="5rub"/>
+  <input type="submit" value="Дай пять"/>
+</form>
+</td>
+</tr>
+<tr>
+<td width="116" height="38" style="font-size:13px; color:black;padding: 0; border: 0; 
+  background:url(http://img.yandex.net/i/money/bg-orange.gif) repeat-y; text-align:center; padding: 5px 0;" align="center" valign="top">
+  <b>поддержи сайт</b>
+</td>
+</tr>
+<tr>
+<td style="padding: 0; border:0;">
+<img src="http://img.yandex.net/i/money/bottom-orange.gif" width="116" height="40" alt="" usemap="#button" border="0" />
+<map name="button">
+<area alt="Яндекс" coords="38,2,49,21" href="http://www.yandex.ru">
+<area alt="Яндекс. Деньги" coords="52,1,84,28" href="https://money.yandex.ru">
+<area alt="Хочу такую же кнопку" coords="17,29,100,40" href="https://money.yandex.ru/choose-banner.xml">
+</map>
+</td>
+</tr>
+</table>
+

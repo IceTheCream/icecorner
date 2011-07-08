@@ -1,0 +1,158 @@
+A:link          { color:#774E07/*887038*/; }
+A:hover       { color:#FFB405/*FFFFE7*/; }
+A:visited     { color:#774E07/*887038*/; }
+
+.body {
+    background-color:#E5E1D; /*E3E0D5 E5E2D5*/
+}
+
+
+.banner {
+  color : #6A3801;
+  font-family : Times;
+  font-weight : Normal;
+  font-style : Italic;
+  font-size : 36;
+  text-align : center;
+}
+/*
+.mainmenu {
+  color        : #846E01;
+  text-align   : Left;
+  font-family  : Arial;
+  font-weight  : Bold;
+  font-style   : Italic;
+  font-size    : 12;
+  border-color : #563F11;
+  border-width : thin;   border-style : solid;        
+}
+*/
+.layout {
+  color        : #846E01;
+  text-align   : Center;
+  font-family  : Arial;
+  font-weight  : Bold;
+  font-style   : Italic;
+  font-size    : 12;
+  border-style : none;
+  padding-left : 30px;
+  /*
+  border-color : #563F11;
+  border-width : thin; 
+  border-style : solid;        
+  */
+}
+/*#tableheader {background-color : #A38C60; color : #F2DDAE; text-align : Center;}*/
+
+
+.content {
+  color        : #846E01;
+  text-align   : Left;
+  font-family  : Arial;
+  font-weight  : Bold;
+  font-style   : Italic;
+  font-size    : 12;
+  border-color : #563F11;
+  border-width : thin;   border-style : solid;        
+}
+#tableheader    {background-color : #A38C60; color : #F2DDAE; text-align : Center;}
+#tablesubheader {background-color : #D8D5C9; color : #63582A; text-align : Center; font-size:12; }
+
+
+.content_hokku {
+  color        : #846E01;
+  text-align   : Center;
+  font-family  : Arial;
+  font-weight  : Normal;
+  font-style   : Italic;
+  font-size    : 16;
+  border-color : #563F11;
+  border-width : thin; 
+  border-style : solid;        
+}
+#tableheader    {background-color : #A38C60; color : #F2DDAE; text-align : Center;}
+#tablesubheader {background-color : #D8D5C9; color : #63582A; text-align : Center; font-size:12; }
+
+
+
+.content_hibun {
+  color        : #846E01;
+  text-align   : Left;
+  font-family  : Arial;
+  font-weight  : Normal;
+  font-style   : Italic;
+  font-size    : 16;
+  border-color : #563F11;
+  border-width : thin; 
+  border-style : solid;        
+}
+#tableheader    {background-color : #A38C60; color : #F2DDAE; text-align : Center;}
+#tablesubheader {background-color : #D8D5C9; color : #63582A; text-align : Center; font-size:12; }
+
+
+
+.content_borderless {
+  color        : #846E01;
+  text-align   : Center;
+  font-family  : Arial;
+  font-weight  : Normal;
+  font-style   : Italic;
+  font-size    : 16;
+  border-style : none;
+}
+#tableheader    {background-color : #A38C60; color : #F2DDAE; text-align : Center;}
+#tablesubheader {background-color : #D8D5C9; color : #63582A; text-align : Center; font-size:12; }
+
+
+.table {
+  color        : #846E01;
+  text-align   : Left;
+  font-family  : Arial;
+  font-weight  : Bold;
+  font-style   : Italic;
+  font-size    : 12;
+  border-color : #563F11;
+  border-width : thin;   border-style : solid;        
+}
+#invisible      {border-style : none;}
+#evenline       {background-color : #DDD7C3;} 
+#oddline        {}
+#tableheader    {background-color : #A38C60; color : #F2DDAE; text-align : Center;}
+#tablesubheader {background-color : #D8D5C9; color : #63582A; text-align : Center; font-size:12; }
+#leftpadding30  {padding-left : 30px;}
+#leftpadding20  {padding-left : 20px;}
+#large          {font-size : 16; font-weight : Normal;}
+#unlarge        {font-size : 12; font-weight : Bold;}
+
+ /* none/dotted/dashed/solid/double/groove/ridge/inset/outset  */
+/* nn/thin/medium/thick  
+#yahead    { color:#916A1D;}
+#odnew     {color:#AF9046}
+#evnew     {color:#AF9046;background-color:#DDD7C3; }
+#pd        {padding-left: 5px;}
+#padd5     {padding-left: 5px;}
+#padd10    {padding-left: 10px;}
+#padd30    {padding-left: 30px;}
+#alnc      {text-align:center;}
+#alnl      {text-align:left;}
+#alnr      {text-align:right;}
+#noborder  {border-style:none;}
+#src       {background-color:#FFFCF2;border-style:dashed;}
+*/
+
+
+.link {
+  text-align : Left;
+  font-family : Tahoma;
+  font-weight : Bold;
+  font-style : Normal;
+  font-size : 12;
+  border-color : #563F11;
+  border-top-width : thin;      /*nn/thin/medium/thick*/
+  border-right-width : thin;    /*nn/thin/medium/thick*/
+  border-bottom-width : thin;   /*nn/thin/medium/thick*/
+  border-left-width : thin;     /*nn/thin/medium/thick*/
+  border-style : solid;         /*none/dotted/dashed/solid/double/groove/ridge/inset/outset */
+}         
+#noborder  {border-style:none;}
+#theader   {color:#AFDAFF; background-color:#63829C; text-align:Center; font-style:Italic;}
