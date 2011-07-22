@@ -1,0 +1,18 @@
+<div style="width:220px; height:150px;">
+    <object type="application/x-shockwave-flash" data="http://swf.yowindow.com/wimo/hpPal/hpPal.swf" width="220" height="150">
+    	<param name="movie" value="http://swf.yowindow.com/wimo/hpPal/hpPal.swf"/>
+    	<param name="allowfullscreen" value="true"/>
+    	<param name="wmode" value="opaque"/>
+    	<param name="bgcolor" value="#FFFFFF"/>
+    	<param name="flashvars" 
+    	value="location_id=gn:491687&amp;location_name=Smolensk&amp;time_format=24&amp;us=metric&amp;background=#FFFFFF&amp;copyright_bar=false"
+    />
+        <a href="http://yowindow.com/weatherwidget.php"
+        style="width:220px;height:150px;display: block;text-indent: -50000px;font-size: 0px;background:#DDF url(http://yowindow.com/img/logo.png) no-repeat scroll 50% 50%;"
+        >Weather Widget</a>
+    </object>
+</div>
+<div style="width: 220px; height: 15px; font-size: 14px; font-family: Arial,Helvetica,sans-serif;">
+	<span style="float:left;"><a target="_top" href="http://yowindow.com?client=widget&amp;link=copyright" style="color: #2fa900; text-decoration:none;" title="Weather Widget">YoWindow.com</a></span>
+	<span style="float:right; color:#888888;"><a href="http://yr.no" style="color: #2fa900; text-decoration:none;">yr.no</a></span>
+</div>
